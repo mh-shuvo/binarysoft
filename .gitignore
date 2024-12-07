@@ -1,5 +1,5 @@
 .env
-vendor
+/vendor
 error.log
 storage/framework/.*
 storage/app/*
