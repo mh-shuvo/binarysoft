@@ -9,3 +9,5 @@ Route::get("/contact",[WebController::class,"showContact"]);
 Route::get("/why-choose-us",[WebController::class,"showWhyChooseUs"]);
 Route::get("/testimonial",[WebController::class,"showTestimonial"]);
 Route::get("/teams",[WebController::class,"showTeams"]);
+Route::get("/terms-condition",[WebController::class,"showTermsCondition"]);
+Route::get("/privacy-policy",[WebController::class,"showPrivacyPolicy"]);

@@ -11,11 +11,10 @@
                             <!-- Footer Widget Start -->
                             <div class="footer-widget-about">
                                 <a class="footer-logo" href="index.html"><img src="<?=asset('assets/images/logo-white.png')?>" alt="Logo"></a>
-                                <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote team of incredible freelance talent.</p>
+                                <p>Binary Soft is a global IT’s one stop solution and technology provider that embraces helping businesses reinvent their processes and go digital with a notch above the rest.</p>
                                 <div class="footer-social">
                                     <ul class="social">
                                         <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                         <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                                     </ul>
                                 </div>
@@ -29,10 +28,9 @@
 
                                 <div class="widget-link">
                                     <ul class="link">
-                                        <li><a href="#">Terms & Conditions</a></li>
-                                        <li><a href="#">About Company</a></li>
-                                        <li><a href="#">Payment Gatway</a></li>
-                                        <li><a href="#">Policy</a></li>
+                                        <li><a href="<?=url('terms-condition')?>">Terms & Conditions</a></li>
+                                        <li><a href="<?=url('about-us')?>">About Company</a></li>
+                                        <li><a href="<?=url('privacy-policy')?>">Policy</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -66,7 +64,7 @@
                                                 <i class="flaticon-phone-call"></i>
                                             </div>
                                             <div class="info-text">
-                                                <span><a href="#">+91 458 654 528</a></span>
+                                                <span><a href="#">+88 01718365438</a></span>
                                             </div>
                                         </li>
                                         <li>
@@ -74,7 +72,7 @@
                                                 <i class="far fa-envelope-open"></i>
                                             </div>
                                             <div class="info-text">
-                                                <span><a href="#">info@example.com</a></span>
+                                                <span><a href="#">hello@binarysoft.net</a></span>
                                             </div>
                                         </li>
                                         <li>
@@ -82,7 +80,8 @@
                                                 <i class="flaticon-pin"></i>
                                             </div>
                                             <div class="info-text">
-                                                <span>60 East 65th Street, NY</span>
+                                                <span>Plot-Ga, Block-D, Satmasjid Super Market (3rd Floor), <br>
+                                                     Mohammadpur Bus Stand, Mohammadpur, Dhaka</span>
                                             </div>
                                         </li>
                                     </ul>
@@ -103,7 +102,7 @@
                             <div class="col-lg-12">
                                 <!-- Footer Copyright Text Start -->
                                 <div class="copyright-text text-center">
-                                    <p>© Copyrights 2022 techwix All rights reserved. </p>
+                                    <p>© Copyrights <?=date('Y')?> BinarySoft All rights reserved. </p>
                                 </div>
                                 <!-- Footer Copyright Text End -->
                             </div>

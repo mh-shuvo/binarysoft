@@ -24,4 +24,10 @@ class WebController{
     public function showTeams(){
         return view("teams");
     }
+    public function showTermsCondition(){
+        return view("terms_condition");
+    }
+    public function showPrivacyPolicy(){
+        return view("privacy_policy");
+    }
 }

@@ -200,7 +200,7 @@
                                 </div>
                                 <div class="cta-text">
                                     <p>Call Us For Any inquiry</p>
-                                    <h3 class="number">+44 920 090 505</h3>
+                                    <h3 class="number">+88 01718365438</h3>
                                 </div>
                             </div>
                             <!-- Cta Right End -->
@@ -349,7 +349,7 @@
                         <div class="col-xl-3 col-lg-4">
                             <!-- Cta Button Start -->
                             <div class="cta-btn">
-                                <a class="btn btn-white" href="#">+44 920 090 505</a>
+                                <a class="btn btn-white" href="#" style="font-size:18px">+88 01718365438</a>
                             </div>
                             <!-- Cta Button End -->
                         </div>

@@ -3,3 +3,5 @@
 error.log
 storage/framework/.*
 storage/app/*
+public/assets/images2/
+public/assets/case/

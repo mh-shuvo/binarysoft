@@ -86,20 +86,25 @@
                                     <h3 class="sub-title">Who we are</h3>
                                     <h2 class="title">Highly Tailored IT Design, Management & Support Services.</h2>
                                 </div>
-                                <p class="text">Accelerate innovation with world-class tech teams We’ll match you to an entire remote team of incredible freelance talent for all your software development needs.</p>
+                                <p class="text">
+                                Binary Soft is a global IT’s one stop solution and technology provider that embraces helping businesses 
+                                reinvent their processes and go digital with a notch above the rest. Focusing on delivering advanced systems,
+                                 methods and technologies that can help revamp operations, increase business productivity and sustain relevance in a changing business environment,
+                                 the firm is centered.
+                                </p>
                                 <!-- About List Start -->
                                 <div class="about-list-03">
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <div class="about-list-item-03">
                                                 <h3 class="title">Our Mission</h3>
-                                                <p>Accelerate innovation with world-class tech teams. We help businesses elevate their value.</p>
+                                                <p>Organizations must harness digital technologies best to provide world class IT services to solve real world challenge and create long term value for clients.</p>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="about-list-item-03">
                                                 <h3 class="title">Custom Code</h3>
-                                                <p>Accelerate innovation with world-class tech teams. We help businesses elevate their value.</p>
+                                                <p>To become a global leader in technology innovation and digital transformation, your organization needs to be transformed from top to bottom.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -392,17 +397,15 @@
                                     <!-- Single Team Start -->
                                     <div class="single-team">
                                         <div class="team-img">
-                                            <a href="team.html"><img src="<?=asset('assets/images/team/team-1.jpg')?>" alt=""></a>
+                                            <a href="#"><img src="<?=asset('assets/images/team/team-1.jpg')?>" alt=""></a>
                                         </div>
                                         <div class="team-content">
-                                            <h3 class="name"><a href="team.html">Andrew <br> Max Fetcher</a></h3>
-                                            <span class="designation">CEO, techwix</span>
+                                            <h3 class="name"><a href="#">Ferdosh  <br> Alam</a></h3>
+                                            <span class="designation">Founder & CEO</span>
                                             <div class="team-social">
                                                 <ul class="social">
                                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-behance"></i></a></li>
+                                                    <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -412,64 +415,58 @@
                                 <div class="swiper-slide">
                                     <!-- Single Team Start -->
                                     <div class="single-team">
-                                        <div class="team-img">
-                                            <a href="team.html"><img src="<?=asset('assets/images/team/team-2.jpg')?>" alt=""></a>
-                                        </div>
-                                        <div class="team-content">
-                                            <h3 class="name"><a href="team.html">Arnold <br> human</a></h3>
-                                            <span class="designation">CEO, techwix</span>
-                                            <div class="team-social">
-                                                <ul class="social">
-                                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
+                                <div class="team-img">
+                                    <a href="#"><img src="<?=asset('assets/images/team/team-2.jpg')?>" alt=""></a>
+                                </div>
+                                <div class="team-content">
+                                    <h3 class="name"><a href="#">Shuvodip <br> Roy</a></h3>
+                                    <span class="designation">Technical Head</span>
+                                    <div class="team-social">
+                                        <ul class="social">
+                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                            <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                                        </ul>
                                     </div>
+                                </div>
+                            </div>
                                     <!-- Single Team End -->
                                 </div>
                                 <div class="swiper-slide">
                                     <!-- Single Team Start -->
                                     <div class="single-team">
-                                        <div class="team-img">
-                                            <a href="team.html"><img src="<?=asset('assets/images/team/team-3.jpg')?>" alt=""></a>
-                                        </div>
-                                        <div class="team-content">
-                                            <h3 class="name"><a href="team.html">Mike <br> Holder</a></h3>
-                                            <span class="designation">CEO, techwix</span>
-                                            <div class="team-social">
-                                                <ul class="social">
-                                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
+                                <div class="team-img">
+                                    <a href="#"><img src="<?=asset('assets/images/team/team-3.jpg')?>" alt=""></a>
+                                </div>
+                                <div class="team-content">
+                                    <h3 class="name"><a href="#">Mohammed  <br> Rashedul Alam</a></h3>
+                                    <span class="designation">SEO Specialist</span>
+                                    <div class="team-social">
+                                        <ul class="social">
+                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                            <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                                        </ul>
                                     </div>
+                                </div>
+                            </div>
                                     <!-- Single Team End -->
                                 </div>
                                 <div class="swiper-slide">
                                     <!-- Single Team Start -->
                                     <div class="single-team">
-                                        <div class="team-img">
-                                            <a href="team.html"><img src="<?=asset('assets/images/team/team-4.jpg')?>" alt=""></a>
-                                        </div>
-                                        <div class="team-content">
-                                            <h3 class="name"><a href="team.html">Joakim <br> Ken</a></h3>
-                                            <span class="designation">CEO, techwix</span>
-                                            <div class="team-social">
-                                                <ul class="social">
-                                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
+                                <div class="team-img">
+                                    <a href="#"><img src="<?=asset('assets/images/team/team-4.jpg')?>" alt=""></a>
+                                </div>
+                                <div class="team-content">
+                                    <h3 class="name"><a href="#">Sajjad  <br> Hossain</a></h3>
+                                    <span class="designation">Web Developer</span>
+                                    <div class="team-social">
+                                        <ul class="social">
+                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                            <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                                        </ul>
                                     </div>
+                                </div>
+                            </div>
                                     <!-- Single Team End -->
                                 </div>
                             </div>
@@ -623,7 +620,7 @@
                         <div class="col-xl-3 col-lg-4">
                             <!-- Cta Button Start -->
                             <div class="cta-btn">
-                                <a class="btn btn-white" href="#">+44 920 090 505</a>
+                                <a class="btn btn-white" href="#" style="font-size:18px">+88 01718365438</a>
                             </div>
                             <!-- Cta Button End -->
                         </div>
