@@ -297,8 +297,7 @@ includeComponents("inc.header")
                                     </div>
                                 </div>
                                 <div class="case-study-content">
-                                    <h3 class="title"><a href="#">Blockchain technology</a></h3>
-                                    <p>Discover Inc</p>
+                                    <h3 class="title"><a href="#">Cyber Security</a></h3>
                                 </div>
                             </div>
                             <!-- Single Case Study End -->
@@ -314,7 +313,6 @@ includeComponents("inc.header")
                                 </div>
                                 <div class="case-study-content">
                                     <h3 class="title"><a href="#">Blockchain technology</a></h3>
-                                    <p>Discover Inc</p>
                                 </div>
                             </div>
                             <!-- Single Case Study End -->
@@ -329,8 +327,7 @@ includeComponents("inc.header")
                                     </div>
                                 </div>
                                 <div class="case-study-content">
-                                    <h3 class="title"><a href="#">Blockchain technology</a></h3>
-                                    <p>Discover Inc</p>
+                                    <h3 class="title"><a href="#">Networking Infrastructure</a></h3>
                                 </div>
                             </div>
                             <!-- Single Case Study End -->
