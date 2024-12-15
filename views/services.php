@@ -74,7 +74,9 @@
                                     </div>
                                     <div class="choose-us-content">
                                         <h3 class="title"><a href="#">IT Consultancy</a></h3>
-                                        <p>Accelerate innovation with world-class tech teams We’ll match you to an entire.</p>
+                                        <p>
+                                            Promoting the strategic management of Business Information Technology through business consultation, resourceful solutions, and efficient consulting services.
+                                        </p>
                                     </div>
                                 </div>
                                 <!-- Choose Us Item End -->
@@ -87,7 +89,7 @@
                                     </div>
                                     <div class="choose-us-content">
                                         <h3 class="title"><a href="#">Data Science</a></h3>
-                                        <p>Accelerate innovation with world-class tech teams We’ll match you to an entire.</p>
+                                        <p>Turn your data into valuable relationships with organizations who provide individualized data science that powers innovation and aids decision making.</p>
                                     </div>
                                 </div>
                                 <!-- Choose Us Item End -->
@@ -100,7 +102,7 @@
                                     </div>
                                     <div class="choose-us-content">
                                         <h3 class="title"><a href="#">IT Security</a></h3>
-                                        <p>Accelerate innovation with world-class tech teams We’ll match you to an entire.</p>
+                                        <p>How to secure your business with custom IT protection solutions that prevent data breaches, manage threats, and meet regulatory requirements.</p>
                                     </div>
                                 </div>
                                 <!-- Choose Us Item End -->
@@ -112,8 +114,8 @@
                                         <img src="<?=asset('assets/images/ser-icon12.png')?>" alt="">
                                     </div>
                                     <div class="choose-us-content">
-                                        <h3 class="title"><a href="#">blockchain System</a></h3>
-                                        <p>Accelerate innovation with world-class tech teams We’ll match you to an entire.</p>
+                                        <h3 class="title"><a href="#">Blockchain System</a></h3>
+                                        <p>Ensuring that the blockchain structures that we are developing are safe, as well as clear and depersonalized, necessary for the functioning of commerce and creation of effective systems.</p>
                                     </div>
                                 </div>
                                 <!-- Choose Us Item End -->
@@ -126,7 +128,7 @@
                                     </div>
                                     <div class="choose-us-content">
                                         <h3 class="title"><a href="#">IT Infrustructure </a></h3>
-                                        <p>Accelerate innovation with world-class tech teams We’ll match you to an entire.</p>
+                                        <p>Establishing strong, elastic and safe IT environments to support your business processes and flourish your organization’s mission.</p>
                                     </div>
                                 </div>
                                 <!-- Choose Us Item End -->
@@ -139,7 +141,7 @@
                                     </div>
                                     <div class="choose-us-content">
                                         <h3 class="title"><a href="#">Data Managment</a></h3>
-                                        <p>Accelerate innovation with world-class tech teams We’ll match you to an entire.</p>
+                                        <p>Production of data, data accuracy and activatable information with appropriate measures for data management of superior quality for making the right decision.</p>
                                     </div>
                                 </div>
                                 <!-- Choose Us Item End -->
@@ -152,7 +154,7 @@
                                     </div>
                                     <div class="choose-us-content">
                                         <h3 class="title"><a href="#">IT Managment</a></h3>
-                                        <p>Accelerate innovation with world-class tech teams We’ll match you to an entire.</p>
+                                        <p>Improved IT inefficiencies, perfect integration, optimal system utilization for your organizational objectives to be accomplished with professional IT management services.</p>
                                     </div>
                                 </div>
                                 <!-- Choose Us Item End -->
@@ -165,7 +167,7 @@
                                     </div>
                                     <div class="choose-us-content">
                                         <h3 class="title"><a href="#">Data securet</a></h3>
-                                        <p>Accelerate innovation with world-class tech teams We’ll match you to an entire.</p>
+                                        <p>The need to preserve your essential business information and maintain compliance with regulatory requirements and challenging emerging threats that endanger the business.</p>
                                     </div>
                                 </div>
                                 <!-- Choose Us Item End -->

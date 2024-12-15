@@ -10,7 +10,7 @@
                         <div class="col-lg-3 col-sm-6">
                             <!-- Footer Widget Start -->
                             <div class="footer-widget-about">
-                                <a class="footer-logo" href="index.html"><img src="<?=asset('assets/images/logo-white.png')?>" alt="Logo"></a>
+                                <a class="footer-logo" href="/"><img src="<?=asset('assets/images/logo-white.png')?>" alt="Logo"></a>
                                 <p>Binary Soft is a global IT’s one stop solution and technology provider that embraces helping businesses reinvent their processes and go digital with a notch above the rest.</p>
                                 <div class="footer-social">
                                     <ul class="social">

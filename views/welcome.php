@@ -145,7 +145,9 @@ includeComponents("inc.header")
                             <h3 class="sub-title">Who we are</h3>
                             <h2 class="title">Highly Tailored IT Design, Management & Support Services.</h2>
                         </div>
-                        <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote team of incredible freelance talent for all your software development needs.</p>
+                        <p>
+                            From their perspective it may mean that you are trying to bring focus to the fact that IT services will be luxury and personal. 
+                        </p>
                         <div class="play-btn">
                             <a class="popup-video" href="https://www.youtube.com/watch?time_continue=3&v=_X0eYtY8T_U"><i class="fas fa-play"></i> <span>How we work</span></a>
                         </div>
@@ -174,7 +176,7 @@ includeComponents("inc.header")
                         <div class="about-author">
                             <img src="<?=asset('assets/images/sign.png')?>" alt="">
                             <h3 class="name">Ferdos Alam</h3>
-                            <span class="designation">CEO, BinarySoft</span>
+                            <span class="designation">Founder & CEO, BinarySoft</span>
                         </div>
                     </div>
                     <!-- About Left End -->
@@ -182,7 +184,9 @@ includeComponents("inc.header")
                 <div class="col-lg-6">
                     <!-- About Right Start -->
                     <div class="about-02-right">
-                        <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote team of incredible freelance talent for all your software development needs.</p>
+                        <p>
+                            That sounds pretty much you have your mind fixed on the phrase as it is, and indeed the phrase is clear and professional. If you’re going to use this as a headline or tagline, it already implies expertise and customization.
+                        </p>
                         <div class="about-list">
                             <ul>
                                 <li>

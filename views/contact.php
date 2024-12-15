@@ -74,8 +74,7 @@
                                 </div>
                                 <div class="info-content">
                                     <h5 class="title">Give us a call</h5>
-                                    <p>(+1) 400-630 123</p>
-                                    <p>(+2) 500-950 456</p>
+                                    <p>+88 01718365438</p>
                                 </div>
                             </div>
                             <!--Single Contact Info End -->
@@ -88,8 +87,7 @@
                                 </div>
                                 <div class="info-content">
                                     <h5 class="title">Drop us a line</h5>
-                                    <p>info@techwix-theme.com</p>
-                                    <p>mail@techwix-tech.com</p>
+                                    <p>hello@binarysoft.net</p>
                                 </div>
                             </div>
                             <!--Single Contact Info End -->
@@ -102,7 +100,8 @@
                                 </div>
                                 <div class="info-content">
                                     <h5 class="title">Visit our office</h5>
-                                    <p>New York. 112 W 34th St caroline, USA</p>
+                                    <p>Plot-Ga, Block-D, Satmasjid Super Market (3rd Floor), <br>
+                                    Mohammadpur Bus Stand, Mohammadpur, Dhaka</p>
                                 </div>
                             </div>
                             <!--Single Contact Info End -->

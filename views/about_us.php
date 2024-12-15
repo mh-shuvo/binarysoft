@@ -317,8 +317,8 @@
                                 <div class="about-author-info-wrap">
                                     <div class="about-author">
                                         <img src="<?=asset('assets/images/sign.png')?>" alt="">
-                                        <h3 class="name">Alen Morno sin</h3>
-                                        <span class="designation">CEO, Techmax</span>
+                                        <h3 class="name">Ferdos Alam</h3>
+                                        <span class="designation">Founder & CEO</span>
                                     </div>
                                     <div class="about-info">
                                         <p>Call to ask any question </p>
