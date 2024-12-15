@@ -127,7 +127,7 @@
                                         <span class="sub-title"> request a quote</span>
                                         <h3 class="title">How May We Help You!</h3>
                                     </div>
-                                    <form action="#">
+                                    <form action="javascript:void(0)">
                                         <div class="row">
                                             <div class="col-sm-6">
                                                 <!-- Single Form Start -->
