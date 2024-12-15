@@ -54,7 +54,12 @@ function baseURL(){
     $protocol = env("APP_PROTOCOL","http");
     $port = env("APP_PORT",8000);
     $host = env("APP_HOST","localhost");
-    $url_root = sprintf("%s://%s:%d",$protocol,$host,$port);
+    if(env('HAS_LIVE',FALSE)){
+        $url_root = sprintf("%s://%s",$protocol,$host);
+    }else{
+        $url_root = sprintf("%s://%s:%d",$protocol,$host,$port);
+    }
+    
     return $url_root;
 }
 
